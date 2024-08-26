@@ -1,9 +1,12 @@
 <h1> <center> 100 Days of Code: The Complete Python Pro Bootcamp </center> </h1>
 
-## 1. Day 1 : **Printing, Commenting, Debugging, String Manipulation** and **Variables**
+```bash
+1. Day 1 : **Printing, Commenting, Debugging, String Manipulation** and **Variables**
+```
 
-## 2. Day 2 : **Data Types, Numbers, Operations, Type Conversion, f-Strings**
-
+```bash
+2. Day 2 : **Data Types, Numbers, Operations, Type Conversion, f-Strings**
+```
 <h1> <center> Setup Commands </center> </h1>
 
 ## Create the Virtual Environment
