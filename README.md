@@ -24,7 +24,7 @@ source 100dayspython/Scripts/activate
 pip install -r requirements.txt
 ```
 
-## Write all the packages and dependencies that we need in the `requirements.txt
+## Write all the packages and dependencies that we need in the `requirements.txt`
 ```bash
 pip freeze > requirements.txt
 ```
