@@ -1,11 +1,11 @@
 <h1> <center> 100 Days of Code: The Complete Python Pro Bootcamp </center> </h1>
 
 ```bash
-1. Day 1 : **Printing, Commenting, Debugging, String Manipulation** and **Variables**
+Day 1 : Printing, Commenting, Debugging, String Manipulation and Variables
 ```
 
 ```bash
-2. Day 2 : **Data Types, Numbers, Operations, Type Conversion, f-Strings**
+Day 2 : Data Types, Numbers, Operations, Type Conversion, f-Strings
 ```
 <h1> <center> Setup Commands </center> </h1>
 
