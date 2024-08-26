@@ -1,4 +1,12 @@
-# Create the Virtual Environment
+<h1> <center> 100 Days of Code: The Complete Python Pro Bootcamp </center> </h1>
+
+## 1. Day 1 : **Printing, Commenting, Debugging, String Manipulation** and **Variables**
+
+## 2. Day 2 : **Data Types, Numbers, Operations, Type Conversion, f-Strings**
+
+<h1> <center> Setup Commands </center> </h1>
+
+## Create the Virtual Environment
 ```bash
 python -m venv python100days
 ```
@@ -22,12 +30,6 @@ pip freeze > requirements.txt
 ```bash
 deactivate
 ````
-
-<h1> <center> 100 Days of Code: The Complete Python Pro Bootcamp </center> </h1>
-
-## 1. Day 1 : **Printing, Commenting, Debugging, String Manipulation** and **Variables**
-
-## 2. Day 2 : **Data Types, Numbers, Operations, Type Conversion, f-Strings**
 
 
 
