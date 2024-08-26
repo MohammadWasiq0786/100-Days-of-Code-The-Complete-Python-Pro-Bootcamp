@@ -1,6 +1,6 @@
 <h1> <center> 100 Days of Python Pledge </center> </h1>
 
-I $\underline{\bold{\text{Zainul Abedeen}}}$ am committed to completing the 100 days of Python challenge.
+I <u><strong><em>Zainul Abedeen</em></strong></u> am committed to completing the 100 days of Python challenge.
 
 I hereby pledge to work for at least an hour on Python programming for 100 days.
 
@@ -16,4 +16,4 @@ I believe in myself.
 
 ***Signature:*** $\underline{text{Zainul Abedeen}}$
 
-Date Signed: $\underline{text{25 August 2024}}$
+Date Signed: <u><em>25 August 2024</em></u>
