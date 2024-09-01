@@ -8,7 +8,8 @@
 
 ----
 
-### Course Content
+<h1> <center> Course Content </center> </h1>
+
 ```bash
 Day 1 : Printing, Commenting, Debugging, String Manipulation and Variables
 ```
