@@ -2,6 +2,10 @@
 
 ![image](https://github.com/MohammadWasiq0786/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/100-days-python-bootcamp.jpg)
 
+### [**Course Link**](https://www.udemy.com/course/100-days-of-code/)
+
+### **Instructor Name :** ***Dr. Angela Yu*** 
+
 ```bash
 Day 1 : Printing, Commenting, Debugging, String Manipulation and Variables
 ```
@@ -17,7 +21,7 @@ Day 3 : Conditional Statements, Logical Operators, Code Blocks and Scope
 ```bash
 Day 4 : Randomisation and Python Lists
 ```
-<h1> <center> Setup Commands </center> </h1>
+<h1> <center> Virtual Environment Setup Commands </center> </h1>
 
 ## Create the Virtual Environment
 ```bash
