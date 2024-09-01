@@ -26,6 +26,10 @@ Day 3 : Conditional Statements, Logical Operators, Code Blocks and Scope
 Day 4 : Randomisation and Python Lists
 ```
 
+```bash
+Day 5 : For Loops, Range and Code Blocks
+```
+
 ----
 
 <h1> <center> Virtual Environment Setup Commands </center> </h1>
