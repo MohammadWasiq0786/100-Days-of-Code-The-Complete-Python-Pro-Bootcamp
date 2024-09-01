@@ -6,6 +6,9 @@
 
 ### **Instructor Name :** ***Dr. Angela Yu*** 
 
+----
+
+### Course Content
 ```bash
 Day 1 : Printing, Commenting, Debugging, String Manipulation and Variables
 ```
@@ -21,6 +24,9 @@ Day 3 : Conditional Statements, Logical Operators, Code Blocks and Scope
 ```bash
 Day 4 : Randomisation and Python Lists
 ```
+
+----
+
 <h1> <center> Virtual Environment Setup Commands </center> </h1>
 
 ## Create the Virtual Environment
@@ -48,8 +54,8 @@ pip freeze > requirements.txt
 deactivate
 ````
 
+----
 
+Thanks & Regards
 
-
-
-
+***Mohammad Wasiq***
