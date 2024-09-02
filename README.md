@@ -30,6 +30,11 @@ Day 4 : Randomisation and Python Lists
 Day 5 : For Loops, Range and Code Blocks
 ```
 
+```bash
+Day 6 : Functions, Code Blocks and While Loops
+```
+
+
 ----
 
 <h1> <center> Virtual Environment Setup Commands </center> </h1>
