@@ -34,6 +34,9 @@ Day 5 : For Loops, Range and Code Blocks
 Day 6 : Functions, Code Blocks and While Loops
 ```
 
+```bash
+Day 7 : Hangman Game
+```
 
 ----
 
