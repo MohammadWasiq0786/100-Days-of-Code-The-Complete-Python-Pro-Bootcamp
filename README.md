@@ -38,6 +38,10 @@ Day 6 : Functions, Code Blocks and While Loops
 Day 7 : Hangman Game
 ```
 
+```bash
+Day 8 : Function Parameters & Caesar Cipher
+```
+
 ----
 
 <h1> <center> Virtual Environment Setup Commands </center> </h1>
