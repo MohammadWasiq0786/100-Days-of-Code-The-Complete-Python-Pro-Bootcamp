@@ -42,6 +42,10 @@ Day 7 : Hangman Game
 Day 8 : Function Parameters & Caesar Cipher
 ```
 
+```bash
+Day 8 : Dictionaries Nesting
+```
+
 ----
 
 <h1> <center> Virtual Environment Setup Commands </center> </h1>
