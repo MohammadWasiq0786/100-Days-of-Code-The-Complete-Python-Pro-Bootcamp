@@ -46,6 +46,35 @@ Day 8 : Function Parameters & Caesar Cipher
 Day 8 : Dictionaries Nesting
 ```
 
+```bash
+Day 9 : Dictionaries Nesting
+```
+
+```bash
+Day 10 : Functions with Output
+```
+
+```bash
+Day 11 : Blackjack Capstone Project
+```
+
+```bash
+Day 12 : Number Guessing Game
+```
+
+```bash
+Day 13 : Debugging
+```
+
+```bash
+Day 14 : Higher Lower Game Project
+```
+
+```bash
+Day 15 : Coffee Machine
+```
+
+
 ----
 
 <h1> <center> Virtual Environment Setup Commands </center> </h1>
